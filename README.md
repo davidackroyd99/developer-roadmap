@@ -1,38 +1,9 @@
 
-![Web Developer Roadmap - 2020](https://i.imgur.com/NNyc9QM.png)
+# Roadmap to becoming a Aspidistra developer in 2020
 
-> Roadmap to becoming a web developer in 2020
+This is a ripoff of the notorious [Web Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap) by Kamran Ahmed. I really like those charts because they do highlight gaps in knowledge for those of us who are less experienced, but obviously it's only a rough guide that a few (very startup-y, probably Ubuntu based) developers have put together for the entire community. Also, the specific technologies chosen in the original are probably  the 'best on the market' at time of writing, but not what most established companies are *actually likely to be using*. It's a bit aspirational, and also a bit unrealistic.
 
-[![](https://img.shields.io/badge/-Roadmaps%20-0a0a0a.svg?style=flat&colorA=0a0a0a)](http://roadmap.sh)
-[![](https://img.shields.io/badge/-Guides-0a0a0a.svg?style=flat&colorA=0a0a0a)](http://roadmap.sh/guides)
-[![](https://img.shields.io/badge/-Translations-0a0a0a.svg?style=flat&colorA=0a0a0a)](./translations)
-[![](https://img.shields.io/badge/%E2%9D%A4-YouTube%20Channel-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://www.youtube.com/channel/UCA0H2KIWgWTwpTFjSxp0now?sub_confirmation=1)
-
-Below you find a set of charts demonstrating the paths that you can take and the technologies that you would want to adopt in order to become a frontend, backend or a devops. I made these charts for an old professor of mine who wanted something to share with his college students to give them a perspective; sharing them here to help the community.
-
-***
-
-<p align="center">
-		<sup>Special Announcement:</sup>
-		<br>
-		<a href="https://www.youtube.com/channel/UCA0H2KIWgWTwpTFjSxp0now?sub_confirmation=1">
-			<img width="70px" src="https://roadmap.sh/sponsors/youtube.svg">
-		</a>
-		<br>
-		<sub><b>We now have a YouTube Channel</b></sub>
-		<br>
-		<sub>I plan on covering the roadmaps and put more content there<br><a href="https://www.youtube.com/channel/UCA0H2KIWgWTwpTFjSxp0now?sub_confirmation=1">Subscribe to the channel</a>.</sub>
-</p>
-
-***
-
-<h3 align="center"><strong>Purpose of these Roadmaps</strong></h3>
-
-> The purpose of these roadmaps is to give you an idea about the landscape and to guide you if you are confused about what to learn next and not to encourage you to pick what is hip and trendy. You should grow some understanding of why one tool would be better suited for some cases than the other and remember hip and trendy never means best suited for the job.
-
-<h3 align="center"><strong>Note to Beginners</strong></h3>
-
-> These roadmaps cover everything that is there to learn for the paths listed below. Don't feel overwhelmed, you don't need to learn it all in the beginning if you are just getting started. We are working on the beginner versions of these and will [release it soon](https://roadmap.sh) after we are done with the 2020 release of the Backend and DevOps roadmaps.
+Below you will find my take, but with the tools and tech that Aspidistra uses instead. Enjoy.
 
 ***
 
@@ -40,7 +11,7 @@ If you think that these can be improved in any way, please do suggest.
 
 ## Introduction
 
-![Web Developer Roadmap Introduction](./img/intro.png)
+![Aspidistra Developer Roadmap Introduction](./img/intro.png)
 
 ## Frontend Roadmap
 
@@ -62,16 +33,11 @@ If you think that these can be improved in any way, please do suggest.
 
 ## 🚦 Wrap Up
 
-If you think any of the roadmaps can be improved, feel free to discuss it in the issues. Also, I will continue to improve this, so you might want to watch this repository or subscribe at [roadmap.sh](http://roadmap.sh) to revisit.
+If you think any of the roadmaps can be improved, let me know and I'll change it. Unfortunately you need proprietary software to modify the charts but I have a free license for 30 days and if I decide it's any good we might use it as an alternative to draw.io anyway. 
 
 ## 🙌 Contribution
 
 > Have a look at [contribution docs](./CONTRIBUTING.md) for how to update any of the roadmaps
-
-- Open pull request with improvements
-- Discuss ideas in issues
-- Spread the word
-- Reach out with any feedback [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/kamranahmedse.svg?style=social&label=Follow%20%40kamranahmedse)](https://twitter.com/kamranahmedse)
  
 ## License
 
