@@ -7,29 +7,31 @@ Below you will find my take, but with the tools and tech that Aspidistra uses in
 
 ***
 
-If you think that these can be improved in any way, please do suggest.
+If you think that these can be improved in any way, please do suggest. 
+
+At the moment I'm only doing software because that's my role, if other departments are interested in being repped on this page I'm happy to design the chart as long as you tell me what to put.
 
 ## Introduction
 
 ![Aspidistra Developer Roadmap Introduction](./img/intro.png)
 
-## Frontend Roadmap
+## Layout Roadmap
 
-[![](https://img.shields.io/badge/-Download%20PDF%20-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://gum.co/frontend-roadmap) [![](https://img.shields.io/badge/-Shareable%20Link%20-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://roadmap.sh/frontend)
+<!-- [![](https://img.shields.io/badge/-Download%20PDF%20-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://gum.co/frontend-roadmap) [![](https://img.shields.io/badge/-Shareable%20Link%20-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://roadmap.sh/frontend)
 
-![Frontend Roadmap](./img/frontend.png?year-2020-2)
+![Layout Roadmap](./img/frontend.png?year-2020-2) -->
 
-## Back-end Roadmap 
+## Software Roadmap 
 
 [![](https://img.shields.io/badge/-Download%20PDF%20-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://gum.co/backend-roadmap) [![](https://img.shields.io/badge/-Shareable%20Link%20-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://roadmap.sh/backend)
 
-![Back-end Roadmap](./img/backend.png?year-2020-2)
+![Software Roadmap](./img/backend.png?year-2020-2)
 
-## DevOps Roadmap
+## Support Roadmap
 
-[![](https://img.shields.io/badge/-Download%20PDF%20-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://gum.co/devops-roadmap) [![](https://img.shields.io/badge/-Shareable%20Link%20-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://roadmap.sh/devops)
+<!-- [![](https://img.shields.io/badge/-Download%20PDF%20-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://gum.co/devops-roadmap) [![](https://img.shields.io/badge/-Shareable%20Link%20-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://roadmap.sh/devops)
 
-![DevOps Roadmap](./img/devops.png)
+![DevOps Roadmap](./img/devops.png) -->
 
 ## 🚦 Wrap Up
 
